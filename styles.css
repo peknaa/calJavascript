@@ -1,0 +1,36 @@
+body {
+  background-color: lavender;
+}
+
+h1 {
+  color: #36013F;
+    font-family: "Academy Engraved LET";
+    font-size: 100px;
+    text-align: center;
+}
+
+p {
+  font-family: "Academy Engraved LET";
+  font-size: 20px;
+  color: #36013F;
+}
+
+div {
+  text-align: center;
+  align-content: center;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  background-color: #36013F;
+  color: white;
+}
+
+#vysledek {
+  font-size: 35px;
+  padding: 10px;
+}
+
